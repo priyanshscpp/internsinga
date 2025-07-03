@@ -1,8 +1,8 @@
-# StoreIT - Software Engineering Internship Report  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
+# StoreIT Singapore - Software Engineering Internship Report  
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=blue)  
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=verizon)  
 
-Welcome to the comprehensive documentation of my internship at **StoreIT Singapore**, where I engineered mission-critical logistics systems leveraging cutting-edge computer vision and full-stack development. This README details my technical contributions, architectural decisions, and quantifiable impact on operations.
+Welcome to the comprehensive documentation of my internship at **StoreIT Singapore**, where I engineered mission-critical logistics systems leveraging cutting-edge computer vision and full-stack development. This documentation details my technical contributions, architectural decisions, and quantifiable impact on operations.
 
 ---
 
@@ -122,15 +122,6 @@ Build a consolidated dashboard showing real-time KPIs with integrated payment pr
 
 ---
 
-
-## Technical Architecture
-
-Diagram
-
-Code
-
-
----
 
 
 ## Performance Metrics
@@ -265,12 +256,12 @@ Operational Insights
 ## Contact
 
 
-Name: [Priyanshu Yadav] \
+Name: Priyanshu Yadav \
 Email: [priyanshs.ece@gmail.com \
 ](https://priyanshs.ece@gmail.com/)LinkedIn: linkedin.com/in/priyanshuhbti \
 GitHub: github.com/priyanshscpp
 
-diff
+
 
 
 ```
