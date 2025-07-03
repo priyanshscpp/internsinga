@@ -204,14 +204,6 @@ def decode_qr(frame):
 
 
 
-Full Stack \
-[https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white \
-https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB \
-https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-
----
-
 
 ## Learnings & Skills
 
