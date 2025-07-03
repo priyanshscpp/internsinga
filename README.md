@@ -1,5 +1,5 @@
 # StoreIT Singapore - Software Engineering Internship Report  
-![Profile Views](https://komarev.com/ghpvc/?username=sooperset&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=blue)  
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=verizon)  
 
 Welcome to the comprehensive documentation of my internship at **StoreIT Singapore**, where I engineered mission-critical logistics systems leveraging cutting-edge computer vision and full-stack development. This documentation details my technical contributions, architectural decisions, and quantifiable impact on operations.
