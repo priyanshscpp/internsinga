@@ -270,4 +270,4 @@ GitHub: github.com/priyanshscpp
 ```
 
 
-*Special thanks to the StoreIT engineering team for their mentorship, particularly [Manager Name] for guidance on systems architecture and [Team Lead Name] for CI/CD best practices.*
+*Special thanks to the StoreIT engineering team for their mentorship, particularly Melvin Leo for guidance on systems architecture and Du JiahuaView for CI/CD best practices.*
